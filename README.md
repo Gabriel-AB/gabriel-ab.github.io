@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Hi, I'm Gabriel
 
-You can use the [editor on GitHub](https://github.com/Gabriel-AB/gabriel-ab.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is my fist web page, so I'm gonna be simple.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The languages I have the most experience are C and Python, currently learning Rust. 
 
-### Markdown
+I am a data scientist and machine learning engineer with experience in the field of natural language processing. some of the tools I know are:
+- tensorflow
+- Scikit Learn
+- SpaCy
+- matplotlib
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## There is two things i like a **lot**
+### Clean Code
+Of course I follow the clean code rules of the great Uncle Bob. Nothing like a good clean code, simple `classes` with simple `names`, simple `functions`, simple `variables`, a amazing world. This is something that I like to improve by learning more about the language I'm using.
 
-```markdown
-Syntax highlighted code block
+### Optimization
+Some of my beliefs are that all first written code must be fast, not super fast, but must at least be fast. If the inicial logic behind the code is unoptimized, there is not much to do.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gabriel-AB/gabriel-ab.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
